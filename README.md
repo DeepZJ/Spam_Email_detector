@@ -144,3 +144,5 @@ python3 -m streamlit run app.py
 DeepanJ
 
 Research / Portfolio Machine Learning Prototype
+
+## If you use this two-layer architecture or reference this approach, please credit: DeepanJ, "Email Fraud Risk Screening — Two-Layer SVM + Gradient-Boosted Screening," GitHub, 2026, [repo link]
