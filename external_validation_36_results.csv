@@ -1,0 +1,799 @@
+id,label,subject,body,text,svm_score,prediction,correct,risk_level
+LEG01,0,Meeting moved to 2 PM,"
+Dear Deepan,
+
+The department meeting scheduled for tomorrow has been
+moved from 1 PM to 2 PM.
+
+Please let me know if you have any difficulty attending.
+
+Regards,
+Department Office
+","Meeting moved to 2 PM 
+Dear Deepan,
+
+The department meeting scheduled for tomorrow has been
+moved from 1 PM to 2 PM.
+
+Please let me know if you have any difficulty attending.
+
+Regards,
+Department Office",-1.829921893031068,0,True,LOWER RISK
+LEG02,0,Registration fee information,"
+Dear Deepan,
+
+Thank you for your enquiry. The registration fee is $899.
+
+Please let me know if you need any further details.
+
+Warm regards,
+Finn Anston
+Program Coordinator
+Scientific Research Conferences
+","Registration fee information 
+Dear Deepan,
+
+Thank you for your enquiry. The registration fee is $899.
+
+Please let me know if you need any further details.
+
+Warm regards,
+Finn Anston
+Program Coordinator
+Scientific Research Conferences",-1.0914402059444828,0,True,LOWER RISK
+LEG03,0,Research meeting tomorrow,"
+Dear Professor,
+
+Just a reminder that our research discussion is scheduled
+for tomorrow at 10 AM.
+
+Please bring the latest analysis results.
+
+Best regards,
+Research Team
+","Research meeting tomorrow 
+Dear Professor,
+
+Just a reminder that our research discussion is scheduled
+for tomorrow at 10 AM.
+
+Please bring the latest analysis results.
+
+Best regards,
+Research Team",-1.5214184325281337,0,True,LOWER RISK
+LEG04,0,Conference programme,"
+Dear Professor,
+
+Please find attached the programme for the upcoming
+academic conference.
+
+We look forward to welcoming you.
+
+Kind regards,
+Conference Secretariat
+","Conference programme 
+Dear Professor,
+
+Please find attached the programme for the upcoming
+academic conference.
+
+We look forward to welcoming you.
+
+Kind regards,
+Conference Secretariat",-1.1246083278993557,0,True,LOWER RISK
+LEG05,0,Teaching timetable update,"
+Dear colleagues,
+
+The updated teaching timetable is now available.
+
+Please review your assigned sessions and let us know if
+there are any scheduling conflicts.
+
+Regards,
+Academic Office
+","Teaching timetable update 
+Dear colleagues,
+
+The updated teaching timetable is now available.
+
+Please review your assigned sessions and let us know if
+there are any scheduling conflicts.
+
+Regards,
+Academic Office",-1.6604502123942444,0,True,LOWER RISK
+LEG06,0,Thank you for your submission,"
+Dear Dr Jayapala,
+
+Thank you for submitting your abstract.
+
+The scientific committee will review all submissions and
+will contact authors after the review process.
+
+Best wishes,
+Conference Secretariat
+","Thank you for your submission 
+Dear Dr Jayapala,
+
+Thank you for submitting your abstract.
+
+The scientific committee will review all submissions and
+will contact authors after the review process.
+
+Best wishes,
+Conference Secretariat",-0.7448130945956971,0,True,LOWER RISK
+LEG07,0,Library renewal confirmation,"
+Dear Dr Jayapala,
+
+Your requested library items have been renewed for another
+two weeks.
+
+No further action is required at this time.
+
+Regards,
+University Library
+","Library renewal confirmation 
+Dear Dr Jayapala,
+
+Your requested library items have been renewed for another
+two weeks.
+
+No further action is required at this time.
+
+Regards,
+University Library",-0.8746863059622801,0,True,LOWER RISK
+LEG08,0,Travel itinerary,"
+Dear Professor,
+
+Please find your confirmed travel itinerary below.
+
+Your departure is scheduled for Monday morning.
+
+Kind regards,
+Travel Office
+","Travel itinerary 
+Dear Professor,
+
+Please find your confirmed travel itinerary below.
+
+Your departure is scheduled for Monday morning.
+
+Kind regards,
+Travel Office",-1.071045802723424,0,True,LOWER RISK
+LEG09,0,Department seminar invitation,"
+Dear colleagues,
+
+You are invited to attend the departmental seminar on
+clinical anatomy this Friday at 3 PM.
+
+Everyone is welcome.
+
+Regards,
+Department of Anatomy
+","Department seminar invitation 
+Dear colleagues,
+
+You are invited to attend the departmental seminar on
+clinical anatomy this Friday at 3 PM.
+
+Everyone is welcome.
+
+Regards,
+Department of Anatomy",-0.6340065455568955,0,True,LOWER RISK
+LEG10,0,Manuscript revision received,"
+Dear Dr Jayapala,
+
+We confirm receipt of your revised manuscript.
+
+The editorial office will now proceed with the next stage
+of the review process.
+
+Regards,
+Editorial Office
+","Manuscript revision received 
+Dear Dr Jayapala,
+
+We confirm receipt of your revised manuscript.
+
+The editorial office will now proceed with the next stage
+of the review process.
+
+Regards,
+Editorial Office",-0.8688720031697722,0,True,LOWER RISK
+LEG11,0,Exam timetable,"
+Dear students,
+
+The final examination timetable has been published.
+
+Please check the dates and examination venues carefully.
+
+Regards,
+Faculty Office
+","Exam timetable 
+Dear students,
+
+The final examination timetable has been published.
+
+Please check the dates and examination venues carefully.
+
+Regards,
+Faculty Office",-1.1925620263937267,0,True,LOWER RISK
+LEG12,0,Payment receipt,"
+Dear Dr Jayapala,
+
+Thank you for your payment.
+
+Please retain this email as your receipt for your records.
+
+Kind regards,
+Finance Office
+","Payment receipt 
+Dear Dr Jayapala,
+
+Thank you for your payment.
+
+Please retain this email as your receipt for your records.
+
+Kind regards,
+Finance Office",0.8368124564099031,1,False,EXTREME
+LEG13,0,Research collaboration,"
+Dear Professor,
+
+I am writing regarding the research collaboration we
+discussed last week.
+
+Would Wednesday afternoon be convenient for a short meeting?
+
+Best regards,
+Research Group
+","Research collaboration 
+Dear Professor,
+
+I am writing regarding the research collaboration we
+discussed last week.
+
+Would Wednesday afternoon be convenient for a short meeting?
+
+Best regards,
+Research Group",-1.086067020244749,0,True,LOWER RISK
+LEG14,0,Workshop confirmation,"
+Dear Dr Jayapala,
+
+Your registration for the anatomy workshop has been
+confirmed.
+
+We look forward to seeing you at the event.
+
+Regards,
+Workshop Coordinator
+","Workshop confirmation 
+Dear Dr Jayapala,
+
+Your registration for the anatomy workshop has been
+confirmed.
+
+We look forward to seeing you at the event.
+
+Regards,
+Workshop Coordinator",-0.7390019086329762,0,True,LOWER RISK
+LEG15,0,Submission deadline reminder,"
+Dear authors,
+
+This is a reminder that the abstract submission deadline
+is 30 September 2026.
+
+Please contact the secretariat if you require clarification.
+
+Best wishes,
+Conference Secretariat
+","Submission deadline reminder 
+Dear authors,
+
+This is a reminder that the abstract submission deadline
+is 30 September 2026.
+
+Please contact the secretariat if you require clarification.
+
+Best wishes,
+Conference Secretariat",-1.2927267717892805,0,True,LOWER RISK
+LEG16,0,Faculty meeting minutes,"
+Dear colleagues,
+
+Please find the minutes from yesterday's faculty meeting.
+
+Kindly review them and send any corrections by Friday.
+
+Regards,
+Faculty Administration
+","Faculty meeting minutes 
+Dear colleagues,
+
+Please find the minutes from yesterday's faculty meeting.
+
+Kindly review them and send any corrections by Friday.
+
+Regards,
+Faculty Administration",-1.2574507513999025,0,True,LOWER RISK
+LEG17,0,Journal peer review acknowledgement,"
+Dear Reviewer,
+
+Thank you for agreeing to review the manuscript.
+
+The review deadline is three weeks from today.
+
+Kind regards,
+Editorial Office
+","Journal peer review acknowledgement 
+Dear Reviewer,
+
+Thank you for agreeing to review the manuscript.
+
+The review deadline is three weeks from today.
+
+Kind regards,
+Editorial Office",-1.6927301749463117,0,True,LOWER RISK
+LEG18,0,Flight booking confirmation,"
+Dear Dr Jayapala,
+
+Your flight reservation has been confirmed.
+
+The booking details and itinerary are included below.
+
+Regards,
+Travel Services
+","Flight booking confirmation 
+Dear Dr Jayapala,
+
+Your flight reservation has been confirmed.
+
+The booking details and itinerary are included below.
+
+Regards,
+Travel Services",-0.5967862744018587,0,True,LOWER RISK
+FRAUD01,1,URGENT: Verify your university account,"
+Dear UoM User,
+
+Following a recent phishing incident, we are upgrading to
+Webmail to improve security and reliability.
+
+All active users must verify their accounts by logging in
+through the secure portal below to avoid service
+interruptions.
+
+Click here to access the Email portal.
+
+Please complete this immediately to maintain uninterrupted
+email access.
+
+Best regards,
+IT Department
+Call Centre
+noreply@uom.lk
+","URGENT: Verify your university account 
+Dear UoM User,
+
+Following a recent phishing incident, we are upgrading to
+Webmail to improve security and reliability.
+
+All active users must verify their accounts by logging in
+through the secure portal below to avoid service
+interruptions.
+
+Click here to access the Email portal.
+
+Please complete this immediately to maintain uninterrupted
+email access.
+
+Best regards,
+IT Department
+Call Centre
+noreply@uom.lk",0.26734207466216375,1,True,HIGH
+FRAUD02,1,Final warning: account suspension,"
+Your university email account will be suspended within
+24 hours unless you confirm your account immediately.
+
+Use the secure verification portal below and enter your
+username and password.
+
+Failure to complete verification will result in permanent
+loss of access.
+
+IT Security Department
+","Final warning: account suspension 
+Your university email account will be suspended within
+24 hours unless you confirm your account immediately.
+
+Use the secure verification portal below and enter your
+username and password.
+
+Failure to complete verification will result in permanent
+loss of access.
+
+IT Security Department",-0.08566180645075461,0,False,LOWER RISK
+FRAUD03,1,Important security verification required,"
+Dear user,
+
+Our security system detected unusual activity on your
+mailbox.
+
+You must verify your account now to prevent account
+termination.
+
+Click the verification link and sign in using your
+institutional credentials.
+
+Security Team
+","Important security verification required 
+Dear user,
+
+Our security system detected unusual activity on your
+mailbox.
+
+You must verify your account now to prevent account
+termination.
+
+Click the verification link and sign in using your
+institutional credentials.
+
+Security Team",0.17198697066280033,1,True,SUSPICIOUS
+FRAUD04,1,Account requires immediate action,"
+Dear Customer,
+
+Your account has been flagged because of suspicious
+activity.
+
+Please confirm your identity by following the secure link
+below.
+
+If you do not respond within 12 hours, your account will
+be permanently restricted.
+
+Regards,
+Account Security Team
+","Account requires immediate action 
+Dear Customer,
+
+Your account has been flagged because of suspicious
+activity.
+
+Please confirm your identity by following the secure link
+below.
+
+If you do not respond within 12 hours, your account will
+be permanently restricted.
+
+Regards,
+Account Security Team",0.20940539383603562,1,True,SUSPICIOUS
+FRAUD05,1,Congratulations! You have been selected,"
+Dear Professor,
+
+We are pleased to inform you that you have been selected
+for an exclusive international award.
+
+To claim your prize, please provide your full name,
+telephone number, bank details and identification
+information.
+
+Respond immediately to proceed.
+
+Awards Administration
+","Congratulations! You have been selected 
+Dear Professor,
+
+We are pleased to inform you that you have been selected
+for an exclusive international award.
+
+To claim your prize, please provide your full name,
+telephone number, bank details and identification
+information.
+
+Respond immediately to proceed.
+
+Awards Administration",-0.26830303950114787,0,False,LOWER RISK
+FRAUD06,1,Urgent payment confirmation required,"
+Your payment has been placed on hold.
+
+To prevent cancellation, please confirm your payment
+information using the secure verification page.
+
+Failure to act today may result in additional charges.
+
+Payment Security Department
+","Urgent payment confirmation required 
+Your payment has been placed on hold.
+
+To prevent cancellation, please confirm your payment
+information using the secure verification page.
+
+Failure to act today may result in additional charges.
+
+Payment Security Department",-0.4267681118874056,0,False,LOWER RISK
+FRAUD07,1,Your mailbox is almost full,"
+Your mailbox has exceeded the permitted storage limit.
+
+To prevent incoming messages from being rejected, verify
+your account immediately.
+
+Click here to increase your storage allocation.
+
+Webmail Administrator
+","Your mailbox is almost full 
+Your mailbox has exceeded the permitted storage limit.
+
+To prevent incoming messages from being rejected, verify
+your account immediately.
+
+Click here to increase your storage allocation.
+
+Webmail Administrator",-0.8420730788077225,0,False,LOWER RISK
+FRAUD08,1,Final notice: email access expires today,"
+This is your final notification.
+
+Your email access will expire today unless you complete
+the mandatory account verification process.
+
+Login immediately using the secure portal.
+
+Email Administration
+","Final notice: email access expires today 
+This is your final notification.
+
+Your email access will expire today unless you complete
+the mandatory account verification process.
+
+Login immediately using the secure portal.
+
+Email Administration",-0.7621356773426046,0,False,LOWER RISK
+FRAUD09,1,You have been invited as an international speaker,"
+Dear Professor,
+
+I came across your article on Anatomic variations in
+basilar artery termination and would like to invite you
+as an invited speaker for our international conference.
+
+For invited speakers, registration must be completed within
+48 hours.
+
+Please submit your details and payment through the link
+provided.
+
+Conference Coordinator
+","You have been invited as an international speaker 
+Dear Professor,
+
+I came across your article on Anatomic variations in
+basilar artery termination and would like to invite you
+as an invited speaker for our international conference.
+
+For invited speakers, registration must be completed within
+48 hours.
+
+Please submit your details and payment through the link
+provided.
+
+Conference Coordinator",-1.009010284906801,0,False,LOWER RISK
+FRAUD10,1,50% publication fee waiver — urgent submission,"
+Dear Professor,
+
+We are pleased to invite you to submit your valuable
+research work to our upcoming issue.
+
+A 50% publication charge waiver is available only for
+manuscripts submitted before the deadline.
+
+Submit immediately through our online portal or email your
+manuscript directly.
+
+Editorial Office
+Journal of Clinical Endocrinology and Metabolism
+","50% publication fee waiver — urgent submission 
+Dear Professor,
+
+We are pleased to invite you to submit your valuable
+research work to our upcoming issue.
+
+A 50% publication charge waiver is available only for
+manuscripts submitted before the deadline.
+
+Submit immediately through our online portal or email your
+manuscript directly.
+
+Editorial Office
+Journal of Clinical Endocrinology and Metabolism",-0.855398555096751,0,False,LOWER RISK
+FRAUD11,1,Second reminder — manuscript invitation,"
+Dear Jayapala D,
+
+We contacted you previously but did not receive a response.
+
+We urgently require additional manuscripts for our upcoming
+issue and believe your previous publication makes you an
+ideal contributor.
+
+Please confirm within 24-48 hours.
+
+Kind regards,
+Journal Operations Manager
+","Second reminder — manuscript invitation 
+Dear Jayapala D,
+
+We contacted you previously but did not receive a response.
+
+We urgently require additional manuscripts for our upcoming
+issue and believe your previous publication makes you an
+ideal contributor.
+
+Please confirm within 24-48 hours.
+
+Kind regards,
+Journal Operations Manager",-0.4572526700639763,0,False,LOWER RISK
+FRAUD12,1,Submit your paper — deadline near,"
+Dear Professor,
+
+Our journal is currently accepting papers for an upcoming
+special issue.
+
+The deadline is approaching rapidly.
+
+Authors who respond within 24 hours will receive priority
+processing.
+
+Submit your manuscript immediately.
+
+Editorial Office
+","Submit your paper — deadline near 
+Dear Professor,
+
+Our journal is currently accepting papers for an upcoming
+special issue.
+
+The deadline is approaching rapidly.
+
+Authors who respond within 24 hours will receive priority
+processing.
+
+Submit your manuscript immediately.
+
+Editorial Office",-0.778905705956001,0,False,LOWER RISK
+FRAUD13,1,Special issue invitation,"
+Dear Doctor Jayapala,
+
+Researchers and clinicians are encouraged to submit their
+manuscripts to our special issue.
+
+There is no publication charge for accepted manuscripts.
+Only a DOI registration fee applies.
+
+Please submit your manuscript using the link below.
+
+Regards,
+Journal Coordinator
+","Special issue invitation 
+Dear Doctor Jayapala,
+
+Researchers and clinicians are encouraged to submit their
+manuscripts to our special issue.
+
+There is no publication charge for accepted manuscripts.
+Only a DOI registration fee applies.
+
+Please submit your manuscript using the link below.
+
+Regards,
+Journal Coordinator",-0.8279753800039032,0,False,LOWER RISK
+FRAUD14,1,International Conference — invited speaker,"
+Dear Dr Jayapala,
+
+I came across your article recently while reviewing the
+literature for our upcoming program.
+
+We would be delighted to have you join our international
+conference as a speaker.
+
+If interested, submit your abstract using the link below.
+
+Please confirm as soon as possible.
+
+James
+Conference Coordinator
+","International Conference — invited speaker 
+Dear Dr Jayapala,
+
+I came across your article recently while reviewing the
+literature for our upcoming program.
+
+We would be delighted to have you join our international
+conference as a speaker.
+
+If interested, submit your abstract using the link below.
+
+Please confirm as soon as possible.
+
+James
+Conference Coordinator",-1.1423037696547875,0,False,LOWER RISK
+FRAUD15,1,Claim your conference speaker package,"
+Dear Professor,
+
+You have been selected for an exclusive speaker opportunity.
+
+Your accommodation package is reserved, but confirmation
+must be completed within 48 hours.
+
+Please provide your registration information through the
+conference portal.
+
+Conference Secretariat
+","Claim your conference speaker package 
+Dear Professor,
+
+You have been selected for an exclusive speaker opportunity.
+
+Your accommodation package is reserved, but confirmation
+must be completed within 48 hours.
+
+Please provide your registration information through the
+conference portal.
+
+Conference Secretariat",-1.0878485889439926,0,False,LOWER RISK
+FRAUD16,1,Password expires today,"
+Your institutional password is scheduled to expire today.
+
+To continue using your account, login to the secure portal
+and confirm your credentials.
+
+Failure to verify your password will cause your mailbox to
+be disabled.
+
+IT Support
+","Password expires today 
+Your institutional password is scheduled to expire today.
+
+To continue using your account, login to the secure portal
+and confirm your credentials.
+
+Failure to verify your password will cause your mailbox to
+be disabled.
+
+IT Support",-0.682091585098432,0,False,LOWER RISK
+FRAUD17,1,Action required: unusual login detected,"
+We detected a login attempt from an unfamiliar location.
+
+If this was not you, secure your account immediately by
+clicking the verification link.
+
+Enter your current password to confirm your identity.
+
+Security Operations
+","Action required: unusual login detected 
+We detected a login attempt from an unfamiliar location.
+
+If this was not you, secure your account immediately by
+clicking the verification link.
+
+Enter your current password to confirm your identity.
+
+Security Operations",-0.34379755104537724,0,False,LOWER RISK
+FRAUD18,1,Exclusive research opportunity — respond today,"
+Dear Researcher,
+
+Your recent publication has attracted our attention.
+
+We would like to invite you to participate in a prestigious
+international research program.
+
+Only a limited number of places remain.
+
+Please reply within 24 hours to reserve your position.
+
+Program Coordinator
+","Exclusive research opportunity — respond today 
+Dear Researcher,
+
+Your recent publication has attracted our attention.
+
+We would like to invite you to participate in a prestigious
+international research program.
+
+Only a limited number of places remain.
+
+Please reply within 24 hours to reserve your position.
+
+Program Coordinator",0.02987650749914228,1,True,SUSPICIOUS

@@ -1,0 +1,509 @@
+email_id,source_type,category,label,subject,body,svm_score,risk_level,prediction,prediction_label,correct
+EXT001,Real-world contemporary,Institutional phishing,1,Webmail account verification required,"
+Dear Uom User
+
+Following a recent phishing incident, we are upgrading to
+Webmail to improve security and reliability.
+
+All active users must verify their accounts by logging in
+through the secure portal below to avoid service interruptions.
+
+Click here to access the Email portal
+
+Please complete this as soon as possible to maintain
+uninterrupted email access.
+
+Best regards,
+IT Department
+Call Centre | Head Office | noreply@uom.lk
+",0.0508250376647319,SUSPICIOUS,1,Suspicious/Spam,True
+EXT002,Real-world contemporary,Journal solicitation,1,Invitation to submit your valuable research,"
+Dear Professor,
+
+Greetings from Journal of Clinical Endocrinology and Metabolism.
+
+We are pleased to invite you to submit your valuable research
+work for consideration in our upcoming issue.
+
+The journal publishes high-quality manuscripts in diabetology,
+endocrinology, and related clinical research areas.
+
+We welcome Research Articles, Reviews, Case Reports,
+Editorials, Mini-Reviews, Short Communications, Technical
+Notes, and other scholarly contributions.
+
+Currently, we are offering a 50% waiver on publication charges
+for manuscripts submitted within the specified deadline period.
+
+Manuscripts can be submitted via our online portal:
+Click here to submit or emailed to
+hazelcooper@directvepub.com.
+
+We look forward to your esteemed contribution.
+
+Best regards,
+Hazel Cooper
+Editorial Office
+Journal of Clinical Endocrinology and Metabolism
+USA
+Email: hazelcooper@directvepub.com
+",-0.8697721715139679,LOWER RISK,0,Lower Risk,False
+EXT003,Real-world contemporary,Repeated journal solicitation,1,Re: deepanj@uom.lk | SSCRT,"
+Dear Jayapala D,
+
+We sent you a letter on the date below though you didn't reply.
+This is the second time we write to you in the hope that this
+time you will consider our request.
+
+If you reply to our message we can diagnose what is wrong and
+try to fix it.
+
+Write an application letter and send it to this address.
+
+Trusted OJS-Submission System Link:
+https://dx.doi.org/10.17352/submission
+
+I hope you can help us with the upcoming problem.
+
+Kindly respond to draw conclusions about the follow-ups.
+
+Best wishes,
+
+Hassan Natalie
+Journal Operations Manager
+Studies on Stem Cells Research and Therapy
+",-1.1036465876967643,LOWER RISK,0,Lower Risk,False
+EXT004,Real-world contemporary,Repeated academic solicitation,1,Invitation to submit a paper,"
+Dear Jayapala D,
+
+This journal had invited you earlier but we didn't receive any
+response from your end, so it is taking liberty to reach you
+again with this request.
+
+On behalf of the board members, we cordially invite you to
+submit a paper equivalent to your previous publication for
+the upcoming issue.
+
+We believe that you are the right person to fulfil our issue.
+
+If you have a paper in your hand, or are writing a paper,
+or are about to write a paper, put this invitation at the
+top of your priorities.
+
+Please share the acceptance within 24-48 hours.
+
+Deadline Nears: September 11, 2026.
+
+Please respond to avoid further follow-ups.
+
+Kind regards,
+
+Hassan Natalie
+Studies on Stem Cells Research and Therapy
+",-0.9906406482456673,LOWER RISK,0,Lower Risk,False
+EXT005,Real-world contemporary,Journal solicitation,1,Special Issue on Clinical Imaging and Clinical Cardiology,"
+Dear Doctor Jayapala Deepan,
+
+Greetings from Sanderson.
+
+Researchers, clinicians, and healthcare professionals are
+encouraged to consider the Journal of Clinical and Medical
+Images for their manuscript.
+
+We are currently preparing a Special Issue on Clinical Imaging
+and Clinical Cardiology and welcome manuscripts.
+
+To submit your manuscript, please visit:
+https://clinandmedimages.org/submit-manuscript/
+
+We publish Research Articles, Review Articles, Case Reports,
+and Letters to the Editor.
+
+There is no publication charge for accepted manuscripts.
+Only the DOI registration fee applies.
+
+We welcome your manuscript.
+
+Regards,
+Sanderson
+",-1.033233982369519,LOWER RISK,0,Lower Risk,False
+EXT006,Real-world contemporary,Conference solicitation,1,Invitation to ICAP-2026,"
+Respected Dr. Deepan Jayapala,
+
+I came across your article on Anatomic variations in basilar
+artery termination: a systematic review and meta-analysis
+recently while reviewing the literature for our upcoming
+program.
+
+The upcoming International Conference on Anesthesia,
+Perioperative and Pain Medicine will take place on
+19-20 November 2026 in Barcelona, Spain, and online.
+
+For invited speakers attending in person, the registration
+package includes two nights accommodation at the conference
+venue.
+
+If you are interested in participating, you may submit your
+abstract using the following link:
+
+https://anesthesia-painconference.com/abstract.php
+
+Would you be interested in presenting a paper or joining a
+panel discussion?
+
+Yours Sincerely,
+
+James
+Conference Coordinator
+Email: james@researchsummit.uk
+WhatsApp: +44 7760 130675
+",-1.0490419601035745,LOWER RISK,0,Lower Risk,False
+SYN001,Synthetic,Credential phishing,1,Urgent: Verify your university account,"
+Your university mailbox will be suspended unless you verify
+your account today.
+
+Please confirm your identity using the secure verification
+portal provided below.
+
+Click here to verify your account.
+
+Failure to complete verification may result in permanent
+loss of access.
+",-0.11576765216683982,LOWER RISK,0,Lower Risk,False
+SYN002,Synthetic,Password phishing,1,Password expiration notification,"
+Your institutional password expires today.
+
+To prevent interruption to your email services, confirm your
+current password through the security portal.
+
+Click the verification link immediately.
+
+IT Support
+",-0.6850863273314814,LOWER RISK,0,Lower Risk,False
+SYN003,Synthetic,Banking phishing,1,Your bank account requires immediate attention,"
+We detected unusual activity associated with your account.
+
+For your protection, your online banking access has been
+temporarily restricted.
+
+Please log in immediately to confirm your identity and restore
+full access.
+
+Failure to respond within 24 hours may result in account
+closure.
+",0.2013042683968509,SUSPICIOUS,1,Suspicious/Spam,True
+SYN004,Synthetic,Payment scam,1,Payment failed — action required,"
+Your recent payment could not be processed.
+
+Please update your payment information immediately to avoid
+cancellation of your subscription.
+
+Use the secure link below to confirm your card details.
+
+Thank you for your cooperation.
+",0.002629192341434994,LOWER RISK,0,Lower Risk,False
+SYN005,Synthetic,Prize scam,1,Congratulations! You have been selected,"
+Congratulations!
+
+Your email address has been selected as a winner in our
+international promotion.
+
+You are entitled to receive a cash award of $25,000.
+
+To claim your prize, reply with your full name, telephone
+number and banking information.
+
+This offer expires today.
+",-0.2908172980514787,LOWER RISK,0,Lower Risk,False
+SYN006,Synthetic,Delivery phishing,1,Delivery unsuccessful — confirm your address,"
+We attempted to deliver your package but were unable to
+complete the delivery.
+
+Please confirm your address and pay the outstanding delivery
+charge using the link below.
+
+Your parcel will be returned if payment is not completed
+within 24 hours.
+",-0.4238183969189252,LOWER RISK,0,Lower Risk,False
+SYN007,Synthetic,Fake invoice,1,Invoice overdue — final notice,"
+This is a final reminder that your invoice remains unpaid.
+
+To avoid legal action and additional charges, please review
+the attached invoice and arrange payment immediately.
+
+Contact our payment department if you have questions.
+",-1.0962698570130058,LOWER RISK,0,Lower Risk,False
+SYN008,Synthetic,Job scam,1,"Work from home opportunity — $8,000 monthly","
+We are currently recruiting individuals for a flexible
+work-from-home opportunity.
+
+No previous experience is required.
+
+Successful applicants can earn up to $8,000 per month working
+part time.
+
+Send your personal details and banking information to begin
+your application.
+",-0.2825670636369093,LOWER RISK,0,Lower Risk,False
+SYN009,Synthetic,Academic solicitation,1,Urgent invitation for your manuscript,"
+Dear Professor,
+
+We have carefully reviewed your outstanding research profile
+and believe your valuable manuscript would be perfect for our
+upcoming special issue.
+
+We urgently require additional papers for publication.
+
+Submit your manuscript within 48 hours to receive an exclusive
+70 percent publication discount.
+
+We look forward to your immediate response.
+",-0.4356569883174193,LOWER RISK,0,Lower Risk,False
+SYN010,Synthetic,Conference solicitation,1,Exclusive invitation to speak at our international summit,"
+Dear Distinguished Researcher,
+
+We recently discovered your excellent scientific work and
+would be honoured to invite you as an international keynote
+speaker.
+
+Limited places are available.
+
+Please confirm your participation immediately and complete
+the registration process through our online portal.
+
+Early confirmation is strongly recommended.
+",-0.3216844128228855,LOWER RISK,0,Lower Risk,False
+SYN011,Synthetic,Account suspension,1,Final warning: mailbox suspension,"
+Dear User,
+
+Your mailbox has exceeded the permitted security threshold.
+
+You must verify your account before midnight.
+
+Click the link below to prevent permanent suspension.
+
+Security Administration
+",-0.16233421567521988,LOWER RISK,0,Lower Risk,False
+SYN012,Synthetic,Investment scam,1,Exclusive investment opportunity,"
+Our private investment program has generated exceptional
+returns for selected members.
+
+You can begin with an initial investment of only $500 and
+potentially receive substantial monthly returns.
+
+Reply today to receive your private registration details.
+",-0.46194196126183806,LOWER RISK,0,Lower Risk,False
+SYN013,Synthetic,Subscription scam,1,Your subscription will renew today,"
+Your annual subscription is scheduled for automatic renewal.
+
+A charge of $499 will be processed today.
+
+If you did not authorize this payment, contact our billing
+department immediately using the number provided below.
+",-0.8150056223992593,LOWER RISK,0,Lower Risk,False
+SYN014,Synthetic,Identity phishing,1,Security confirmation required,"
+For security purposes we require confirmation of your identity.
+
+Please provide your username, password and verification code
+in response to this message.
+
+This request must be completed immediately.
+",-0.8642008135563218,LOWER RISK,0,Lower Risk,False
+SYN015,Synthetic,Malicious-link style,1,Important document available,"
+A confidential document has been shared with you.
+
+You must review the document before the access deadline.
+
+Open the document using the secure online portal.
+
+Failure to review the document may result in account
+restrictions.
+",-1.0344084949515073,LOWER RISK,0,Lower Risk,False
+SYN016,Synthetic,Legitimate academic,0,Department seminar next Tuesday,"
+Dear colleagues,
+
+This is a reminder that the departmental seminar will take
+place next Tuesday at 2.00 pm in the main lecture theatre.
+
+The speaker will discuss recent developments in clinical
+anatomy.
+
+Kind regards,
+Department Office
+",-0.6292811726308946,LOWER RISK,0,Lower Risk,True
+SYN017,Synthetic,Legitimate university,0,Updated timetable for next week,"
+Dear students,
+
+Please find attached the revised timetable for next week's
+teaching activities.
+
+There has been a minor change to the Tuesday afternoon session.
+
+Please check the updated schedule before attending.
+
+Regards,
+Module Coordinator
+",-2.2312147130665965,LOWER RISK,0,Lower Risk,True
+SYN018,Synthetic,Legitimate personal,0,Lunch tomorrow,"
+Hi,
+
+Are you free for lunch tomorrow?
+
+I should be available after 1 pm. Let me know if that works
+for you.
+
+Best,
+Sam
+",-1.6659810221973674,LOWER RISK,0,Lower Risk,True
+SYN019,Synthetic,Legitimate conference,0,Conference programme update,"
+Dear participant,
+
+The conference programme has been updated following several
+schedule changes.
+
+Your presentation remains scheduled for Thursday morning.
+
+Please contact the conference office if you have any
+questions.
+
+Best regards,
+Conference Secretariat
+",-1.6735914765660271,LOWER RISK,0,Lower Risk,True
+SYN020,Synthetic,Legitimate journal,0,Manuscript review invitation,"
+Dear Dr Jayapala,
+
+Thank you for agreeing to review the manuscript.
+
+The revised submission is now available in the journal's
+review system. Please submit your comments by the stated
+deadline.
+
+We appreciate your contribution to the peer-review process.
+
+Kind regards,
+Editorial Office
+",-1.5854252590808555,LOWER RISK,0,Lower Risk,True
+SYN021,Synthetic,Legitimate administration,0,Faculty meeting minutes,"
+Dear members,
+
+Please find the minutes of the faculty meeting held on
+Monday.
+
+If you notice any corrections, please send them to the
+secretariat before Friday.
+
+Regards,
+Faculty Secretariat
+",-1.491965021529031,LOWER RISK,0,Lower Risk,True
+SYN022,Synthetic,Legitimate research,0,Research meeting,"
+Dear team,
+
+Could we meet on Thursday afternoon to discuss the progress
+of the current research project?
+
+I would like to review the preliminary results and agree on
+the next analytical steps.
+
+Best wishes,
+Research Team
+",-1.792033142613454,LOWER RISK,0,Lower Risk,True
+SYN023,Synthetic,Legitimate professional,0,Thank you for your presentation,"
+Dear Professor,
+
+Thank you for your excellent presentation at yesterday's
+meeting.
+
+The discussion was particularly useful and generated several
+ideas for future collaboration.
+
+Best regards,
+Michael
+",-1.179207459711132,LOWER RISK,0,Lower Risk,True
+SYN024,Synthetic,Legitimate conference,0,Abstract submission confirmation,"
+Dear Dr Smith,
+
+We confirm receipt of your abstract for the upcoming annual
+conference.
+
+Your submission has been assigned reference number 1842.
+
+The review committee will notify authors of the decision
+according to the published timetable.
+
+Kind regards,
+Conference Office
+",-1.046167639712678,LOWER RISK,0,Lower Risk,True
+SYN025,Synthetic,Legitimate newsletter,0,Monthly library newsletter,"
+Dear colleagues,
+
+The university library's monthly newsletter is now available.
+
+This month's issue includes information about new electronic
+resources, training sessions and changes to opening hours.
+
+Regards,
+University Library
+",-2.12039768500387,LOWER RISK,0,Lower Risk,True
+SYN026,Synthetic,Legitimate appointment,0,Meeting confirmed for Wednesday,"
+Dear Dr Perera,
+
+This is to confirm our meeting on Wednesday at 10.30 am.
+
+We can meet in the conference room on the second floor.
+
+Please let me know if you need to change the time.
+
+Regards,
+Nimal
+",-1.8982270504870677,LOWER RISK,0,Lower Risk,True
+SYN027,Synthetic,Legitimate academic,0,Comments on the manuscript,"
+Dear colleague,
+
+I have reviewed the latest version of the manuscript.
+
+I have attached a few comments regarding the methods section
+and statistical analysis.
+
+Happy to discuss these during our next meeting.
+
+Best,
+Alex
+",-1.2932233571051546,LOWER RISK,0,Lower Risk,True
+SYN028,Synthetic,Legitimate institutional,0,Annual leave application,"
+Dear Administration,
+
+I am writing to confirm the dates of my annual leave.
+
+Please let me know if any additional documentation is
+required.
+
+Thank you for your assistance.
+
+Kind regards,
+Dr Fernando
+",-1.3311204384638364,LOWER RISK,0,Lower Risk,True
+SYN029,Synthetic,Legitimate collaboration,0,Possible research collaboration,"
+Dear colleague,
+
+I enjoyed reading your recent publication.
+
+Our group is working on a related project, and I wondered
+whether you might be interested in discussing a possible
+research collaboration.
+
+There is no urgency, so please respond whenever convenient.
+
+Best wishes,
+David
+",-0.5679102370958671,LOWER RISK,0,Lower Risk,True
+SYN030,Synthetic,Legitimate personal,0,Re: Friday plans,"
+Hi Deepan,
+
+Thanks for your message.
+
+Friday works well for me. Let's meet after work and decide
+where to have dinner.
+
+See you then,
+John
+",-1.711365138410771,LOWER RISK,0,Lower Risk,True

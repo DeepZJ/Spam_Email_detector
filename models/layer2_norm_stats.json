@@ -1,0 +1,11 @@
+{
+  "score_mean": -1.810384831177963,
+  "score_std": 0.46027159692754444,
+  "svm_flag_thresholds": {
+    "suspicious": 0.0282,
+    "high": 0.2254,
+    "very_high": 0.4338,
+    "extreme": 0.7718
+  },
+  "second_layer_decision_threshold": 0.29
+}
